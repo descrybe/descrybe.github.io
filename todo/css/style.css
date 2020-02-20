@@ -68,7 +68,7 @@ input[type=checkbox], label {
   
 input[type=checkbox] + label:before {
     content: '';
-    background: #1BA39C;
+    background: #5052b5;
     border-radius: 5px;
     border: 2px solid #ddd;
     display: inline-block;
